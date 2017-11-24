@@ -1,0 +1,40 @@
+
+#head-nav{
+	background-color:#D3D3D3;
+	border-radius: 0;
+	border: 0;
+}
+.navbar
+{
+	width: 100%;
+ height:200px;
+ padding:15px;
+}
+#logo{
+	background:url('images/logo1.jpg') no-repeat;
+	width: 150px;
+	height: 150px;
+	margin:1px 15px 1px 0;
+}
+.navbar-brand h1{
+	font-size: 1.5em;
+	margin:1px 15px 1px 15px;
+}
+.navbar-brand a{
+	color: #629DD1;
+}
+
+.navbar-brand a:hover{
+	text-decoration:none;
+
+}
+#nav-list a{
+color:#3F0C1F;
+text-align: center;
+}
+#nav-list a:hover{
+color:#E0E0E0;
+}
+#nav-list a span{
+font-size:1.8em;
+}
