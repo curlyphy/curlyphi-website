@@ -820,7 +820,7 @@ span{
 			input[type="reset"].special:active,
 			input[type="button"].special:active,
 			.button.special:active {
-				background-color: #4e91cb;
+				background-color: #ffe436;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
