@@ -1119,3 +1119,11 @@ color:white;
 			width: 100% !important;
 			height: auto !important;
 		}
+.stackem div{
+	width: 100%;
+}
+.row .val{
+	margin-top: 20px;
+	padding-left:30px;
+	margin-left: 0px;
+}
